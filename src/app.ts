@@ -1,4 +1,4 @@
-import fastify from 'fastify'
+import fastifyauthenticationfrom 'fastify'
 import { appRoutes } from './http/routes'
 import { ZodError } from 'zod'
 import { env } from 'process'
